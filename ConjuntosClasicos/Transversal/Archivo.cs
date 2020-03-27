@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConjuntosClasicos.AnalisisLexico
+namespace ConjuntosClasicos.Transversal
 {
-    class AnalizadorLexico
+    class Archivo
     {
-        
     }
 }
