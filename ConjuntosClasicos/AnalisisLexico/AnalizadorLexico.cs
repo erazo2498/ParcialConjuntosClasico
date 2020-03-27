@@ -8,5 +8,6 @@ namespace ConjuntosClasicos.AnalisisLexico
 {
     class AnalizadorLexico
     {
+
     }
 }
